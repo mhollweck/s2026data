@@ -1,0 +1,67 @@
+{
+  "teams": [
+    {"id": "mex", "name": "Mexico", "code": "MEX", "flag": "🇲🇽", "group": "A", "seed": 1, "worldCupTitles": 0},
+    {"id": "rsa", "name": "South Africa", "code": "RSA", "flag": "🇿🇦", "group": "A", "seed": 2, "worldCupTitles": 0},
+    {"id": "kor", "name": "Korea Republic", "code": "KOR", "flag": "🇰🇷", "group": "A", "seed": 3, "worldCupTitles": 0},
+    {"id": "pod", "name": "UEFA Winner D", "code": "POD", "flag": "🏳️", "group": "A", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "can", "name": "Canada", "code": "CAN", "flag": "🇨🇦", "group": "B", "seed": 1, "worldCupTitles": 0},
+    {"id": "poa", "name": "UEFA Winner A", "code": "POA", "flag": "🏳️", "group": "B", "seed": 2, "worldCupTitles": 0},
+    {"id": "qat", "name": "Qatar", "code": "QAT", "flag": "🇶🇦", "group": "B", "seed": 3, "worldCupTitles": 0},
+    {"id": "sui", "name": "Switzerland", "code": "SUI", "flag": "🇨🇭", "group": "B", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "bra", "name": "Brazil", "code": "BRA", "flag": "🇧🇷", "group": "C", "seed": 1, "worldCupTitles": 5},
+    {"id": "mar", "name": "Morocco", "code": "MAR", "flag": "🇲🇦", "group": "C", "seed": 2, "worldCupTitles": 0},
+    {"id": "hai", "name": "Haiti", "code": "HAI", "flag": "🇭🇹", "group": "C", "seed": 3, "worldCupTitles": 0},
+    {"id": "sco", "name": "Scotland", "code": "SCO", "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "group": "C", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "usa", "name": "United States", "code": "USA", "flag": "🇺🇸", "group": "D", "seed": 1, "worldCupTitles": 0},
+    {"id": "par", "name": "Paraguay", "code": "PAR", "flag": "🇵🇾", "group": "D", "seed": 2, "worldCupTitles": 0},
+    {"id": "aus", "name": "Australia", "code": "AUS", "flag": "🇦🇺", "group": "D", "seed": 3, "worldCupTitles": 0},
+    {"id": "poc", "name": "UEFA Winner C", "code": "POC", "flag": "🏳️", "group": "D", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "ger", "name": "Germany", "code": "GER", "flag": "🇩🇪", "group": "E", "seed": 1, "worldCupTitles": 4},
+    {"id": "cuw", "name": "Curaçao", "code": "CUW", "flag": "🇨🇼", "group": "E", "seed": 2, "worldCupTitles": 0},
+    {"id": "civ", "name": "Côte d'Ivoire", "code": "CIV", "flag": "🇨🇮", "group": "E", "seed": 3, "worldCupTitles": 0},
+    {"id": "ecu", "name": "Ecuador", "code": "ECU", "flag": "🇪🇨", "group": "E", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "ned", "name": "Netherlands", "code": "NED", "flag": "🇳🇱", "group": "F", "seed": 1, "worldCupTitles": 0},
+    {"id": "jpn", "name": "Japan", "code": "JPN", "flag": "🇯🇵", "group": "F", "seed": 2, "worldCupTitles": 0},
+    {"id": "pob", "name": "UEFA Winner B", "code": "POB", "flag": "🏳️", "group": "F", "seed": 3, "worldCupTitles": 0},
+    {"id": "tun", "name": "Tunisia", "code": "TUN", "flag": "🇹🇳", "group": "F", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "bel", "name": "Belgium", "code": "BEL", "flag": "🇧🇪", "group": "G", "seed": 1, "worldCupTitles": 0},
+    {"id": "egy", "name": "Egypt", "code": "EGY", "flag": "🇪🇬", "group": "G", "seed": 2, "worldCupTitles": 0},
+    {"id": "irn", "name": "Iran", "code": "IRN", "flag": "🇮🇷", "group": "G", "seed": 3, "worldCupTitles": 0},
+    {"id": "nzl", "name": "New Zealand", "code": "NZL", "flag": "🇳🇿", "group": "G", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "esp", "name": "Spain", "code": "ESP", "flag": "🇪🇸", "group": "H", "seed": 1, "worldCupTitles": 1},
+    {"id": "cpv", "name": "Cabo Verde", "code": "CPV", "flag": "🇨🇻", "group": "H", "seed": 2, "worldCupTitles": 0},
+    {"id": "sau", "name": "Saudi Arabia", "code": "KSA", "flag": "🇸🇦", "group": "H", "seed": 3, "worldCupTitles": 0},
+    {"id": "uru", "name": "Uruguay", "code": "URU", "flag": "🇺🇾", "group": "H", "seed": 4, "worldCupTitles": 2},
+
+    {"id": "fra", "name": "France", "code": "FRA", "flag": "🇫🇷", "group": "I", "seed": 1, "worldCupTitles": 2},
+    {"id": "sen", "name": "Senegal", "code": "SEN", "flag": "🇸🇳", "group": "I", "seed": 2, "worldCupTitles": 0},
+    {"id": "po2", "name": "IC Winner 2", "code": "PO2", "flag": "🏳️", "group": "I", "seed": 3, "worldCupTitles": 0},
+    {"id": "nor", "name": "Norway", "code": "NOR", "flag": "🇳🇴", "group": "I", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "arg", "name": "Argentina", "code": "ARG", "flag": "🇦🇷", "group": "J", "seed": 1, "worldCupTitles": 3},
+    {"id": "alg", "name": "Algeria", "code": "ALG", "flag": "🇩🇿", "group": "J", "seed": 2, "worldCupTitles": 0},
+    {"id": "aut", "name": "Austria", "code": "AUT", "flag": "🇦🇹", "group": "J", "seed": 3, "worldCupTitles": 0},
+    {"id": "jor", "name": "Jordan", "code": "JOR", "flag": "🇯🇴", "group": "J", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "por", "name": "Portugal", "code": "POR", "flag": "🇵🇹", "group": "K", "seed": 1, "worldCupTitles": 0},
+    {"id": "po1", "name": "IC Winner 1", "code": "PO1", "flag": "🏳️", "group": "K", "seed": 2, "worldCupTitles": 0},
+    {"id": "uzb", "name": "Uzbekistan", "code": "UZB", "flag": "🇺🇿", "group": "K", "seed": 3, "worldCupTitles": 0},
+    {"id": "col", "name": "Colombia", "code": "COL", "flag": "🇨🇴", "group": "K", "seed": 4, "worldCupTitles": 0},
+
+    {"id": "eng", "name": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "group": "L", "seed": 1, "worldCupTitles": 1},
+    {"id": "cro", "name": "Croatia", "code": "CRO", "flag": "🇭🇷", "group": "L", "seed": 2, "worldCupTitles": 0},
+    {"id": "gha", "name": "Ghana", "code": "GHA", "flag": "🇬🇭", "group": "L", "seed": 3, "worldCupTitles": 0},
+    {"id": "pan", "name": "Panama", "code": "PAN", "flag": "🇵🇦", "group": "L", "seed": 4, "worldCupTitles": 0}
+  ],
+  "popularTeamIds": [
+    "usa", "mex", "can", "ger", "bra", "arg", "fra", "eng", "esp", "por",
+    "ned", "jpn", "bel", "cro", "uru", "mar", "sen", "kor", "aus", "col"
+  ]
+}
