@@ -12,11 +12,11 @@
       "stage": "GROUP",
       "group": "A",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 1
     },
     {
@@ -28,11 +28,11 @@
       "stage": "GROUP",
       "group": "A",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 2
     },
     {
@@ -44,11 +44,11 @@
       "stage": "GROUP",
       "group": "B",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 3
     },
     {
@@ -60,11 +60,11 @@
       "stage": "GROUP",
       "group": "D",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 4
     },
     {
@@ -76,11 +76,11 @@
       "stage": "GROUP",
       "group": "C",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 5
     },
     {
@@ -92,11 +92,11 @@
       "stage": "GROUP",
       "group": "D",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 6
     },
     {
@@ -108,11 +108,11 @@
       "stage": "GROUP",
       "group": "C",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 7
     },
     {
@@ -124,11 +124,11 @@
       "stage": "GROUP",
       "group": "B",
       "groupMatchNumber": 1,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null,
-      "status": "SCHEDULED",
+      "status": "COMPLETED",
       "matchNumber": 8
     },
     {
