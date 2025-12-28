@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-28-mock-germany-r32-live-v1",
+  "version": "2025-12-28-mock-germany-r32-live-v2",
   "lastUpdated": "2025-12-28T18:30:00Z",
   "matches": [
     {
@@ -1457,12 +1457,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W74 vs W77",
       "possibleHomeTeamIds": [
-        "ecu",
-        "fra"
+        "ger",
+        "tun"
       ],
       "possibleAwayTeamIds": [
-        "col",
-        "cro"
+        "fra",
+        "ecu"
       ],
       "matchNumber": 89
     },
@@ -1481,12 +1481,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W73 vs W75",
       "possibleHomeTeamIds": [
-        "ger",
-        "tun"
+        "kor",
+        "can"
       ],
       "possibleAwayTeamIds": [
-        "can",
-        "kor"
+        "ned",
+        "sco"
       ],
       "matchNumber": 90
     },
@@ -1505,12 +1505,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W76 vs W78",
       "possibleHomeTeamIds": [
-        "ned",
-        "sco"
+        "bra",
+        "jpn"
       ],
       "possibleAwayTeamIds": [
-        "aut",
-        "esp"
+        "civ",
+        "nor"
       ],
       "matchNumber": 91
     },
@@ -1529,12 +1529,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W79 vs W80",
       "possibleHomeTeamIds": [
-        "mar",
-        "usa"
+        "mex",
+        "sen"
       ],
       "possibleAwayTeamIds": [
-        "alg",
-        "bel"
+        "eng",
+        "irn"
       ],
       "matchNumber": 92
     },
@@ -1553,12 +1553,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W83 vs W84",
       "possibleHomeTeamIds": [
-        "mex",
-        "sen"
+        "col",
+        "cro"
       ],
       "possibleAwayTeamIds": [
-        "eng",
-        "irn"
+        "esp",
+        "aut"
       ],
       "matchNumber": 93
     },
@@ -1577,12 +1577,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W81 vs W82",
       "possibleHomeTeamIds": [
-        "bra",
-        "jpn"
+        "usa",
+        "mar"
       ],
       "possibleAwayTeamIds": [
-        "civ",
-        "nor"
+        "bel",
+        "alg"
       ],
       "matchNumber": 94
     },
@@ -1601,12 +1601,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W86 vs W88",
       "possibleHomeTeamIds": [
-        "aus",
-        "rsa"
+        "arg",
+        "uru"
       ],
       "possibleAwayTeamIds": [
-        "por",
-        "sau"
+        "aus",
+        "rsa"
       ],
       "matchNumber": 95
     },
@@ -1625,12 +1625,12 @@
       "status": "SCHEDULED",
       "bracketPosition": "W85 vs W87",
       "possibleHomeTeamIds": [
-        "arg",
-        "uru"
+        "sui",
+        "egy"
       ],
       "possibleAwayTeamIds": [
-        "egy",
-        "sui"
+        "por",
+        "sau"
       ],
       "matchNumber": 96
     },
@@ -1649,16 +1649,16 @@
       "status": "SCHEDULED",
       "bracketPosition": "W89 vs W90",
       "possibleHomeTeamIds": [
-        "col",
-        "cro",
-        "ecu",
-        "fra"
+        "ger",
+        "tun",
+        "fra",
+        "ecu"
       ],
       "possibleAwayTeamIds": [
-        "can",
-        "ger",
         "kor",
-        "tun"
+        "can",
+        "ned",
+        "sco"
       ],
       "matchNumber": 97
     },
@@ -1677,16 +1677,16 @@
       "status": "SCHEDULED",
       "bracketPosition": "W93 vs W94",
       "possibleHomeTeamIds": [
-        "aut",
+        "col",
+        "cro",
         "esp",
-        "ned",
-        "sco"
+        "aut"
       ],
       "possibleAwayTeamIds": [
-        "alg",
-        "bel",
+        "usa",
         "mar",
-        "usa"
+        "bel",
+        "alg"
       ],
       "matchNumber": 98
     },
@@ -1705,16 +1705,16 @@
       "status": "SCHEDULED",
       "bracketPosition": "W91 vs W92",
       "possibleHomeTeamIds": [
-        "eng",
-        "irn",
-        "mex",
-        "sen"
+        "bra",
+        "jpn",
+        "civ",
+        "nor"
       ],
       "possibleAwayTeamIds": [
-        "bra",
-        "civ",
-        "jpn",
-        "nor"
+        "mex",
+        "sen",
+        "eng",
+        "irn"
       ],
       "matchNumber": 99
     },
@@ -1733,16 +1733,16 @@
       "status": "SCHEDULED",
       "bracketPosition": "W95 vs W96",
       "possibleHomeTeamIds": [
+        "arg",
+        "uru",
         "aus",
-        "por",
-        "rsa",
-        "sau"
+        "rsa"
       ],
       "possibleAwayTeamIds": [
-        "arg",
-        "egy",
         "sui",
-        "uru"
+        "egy",
+        "por",
+        "sau"
       ],
       "matchNumber": 100
     },
@@ -1761,24 +1761,24 @@
       "status": "SCHEDULED",
       "bracketPosition": "W97 vs W98",
       "possibleHomeTeamIds": [
-        "can",
-        "col",
-        "cro",
-        "ecu",
-        "fra",
         "ger",
+        "tun",
+        "fra",
+        "ecu",
         "kor",
-        "tun"
+        "can",
+        "ned",
+        "sco"
       ],
       "possibleAwayTeamIds": [
-        "alg",
-        "aut",
-        "bel",
+        "col",
+        "cro",
         "esp",
+        "aut",
+        "usa",
         "mar",
-        "ned",
-        "sco",
-        "usa"
+        "bel",
+        "alg"
       ],
       "matchNumber": 101
     },
@@ -1798,23 +1798,23 @@
       "bracketPosition": "W99 vs W100",
       "possibleHomeTeamIds": [
         "bra",
-        "civ",
-        "eng",
-        "irn",
         "jpn",
-        "mex",
+        "civ",
         "nor",
-        "sen"
+        "mex",
+        "sen",
+        "eng",
+        "irn"
       ],
       "possibleAwayTeamIds": [
         "arg",
+        "uru",
         "aus",
+        "rsa",
+        "sui",
         "egy",
         "por",
-        "rsa",
-        "sau",
-        "sui",
-        "uru"
+        "sau"
       ],
       "matchNumber": 102
     },
@@ -1833,40 +1833,40 @@
       "status": "SCHEDULED",
       "bracketPosition": "L101 vs L102",
       "possibleHomeTeamIds": [
-        "alg",
-        "aut",
-        "bel",
-        "can",
-        "col",
-        "cro",
-        "ecu",
-        "esp",
-        "fra",
         "ger",
+        "tun",
+        "fra",
+        "ecu",
         "kor",
-        "mar",
+        "can",
         "ned",
         "sco",
-        "tun",
-        "usa"
+        "col",
+        "cro",
+        "esp",
+        "aut",
+        "usa",
+        "mar",
+        "bel",
+        "alg"
       ],
       "possibleAwayTeamIds": [
-        "arg",
-        "aus",
         "bra",
+        "jpn",
         "civ",
-        "egy",
+        "nor",
+        "mex",
+        "sen",
         "eng",
         "irn",
-        "jpn",
-        "mex",
-        "nor",
-        "por",
+        "arg",
+        "uru",
+        "aus",
         "rsa",
-        "sau",
-        "sen",
         "sui",
-        "uru"
+        "egy",
+        "por",
+        "sau"
       ],
       "matchNumber": 103
     },
@@ -1885,40 +1885,40 @@
       "status": "SCHEDULED",
       "bracketPosition": "W101 vs W102",
       "possibleHomeTeamIds": [
-        "alg",
-        "aut",
-        "bel",
-        "can",
-        "col",
-        "cro",
-        "ecu",
-        "esp",
-        "fra",
         "ger",
+        "tun",
+        "fra",
+        "ecu",
         "kor",
-        "mar",
+        "can",
         "ned",
         "sco",
-        "tun",
-        "usa"
+        "col",
+        "cro",
+        "esp",
+        "aut",
+        "usa",
+        "mar",
+        "bel",
+        "alg"
       ],
       "possibleAwayTeamIds": [
-        "arg",
-        "aus",
         "bra",
+        "jpn",
         "civ",
-        "egy",
+        "nor",
+        "mex",
+        "sen",
         "eng",
         "irn",
-        "jpn",
-        "mex",
-        "nor",
-        "por",
+        "arg",
+        "uru",
+        "aus",
         "rsa",
-        "sau",
-        "sen",
         "sui",
-        "uru"
+        "egy",
+        "por",
+        "sau"
       ],
       "matchNumber": 104
     }
